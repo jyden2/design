@@ -1,0 +1,152 @@
+{
+  "build": "h57928b3_565",
+  "build_number": 565,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "mkl 2021.3.0 hb70f87d_564",
+    "mkl-include 2021.3.0 hb70f87d_564"
+  ],
+  "extracted_package_dir": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-devel-2021.3.0-h57928b3_565",
+  "features": "",
+  "files": [
+    "Library/lib/mkl_blacs_ilp64_dll.lib",
+    "Library/lib/mkl_blacs_lp64_dll.lib",
+    "Library/lib/mkl_cdft_core_dll.lib",
+    "Library/lib/mkl_core_dll.lib",
+    "Library/lib/mkl_intel_ilp64_dll.lib",
+    "Library/lib/mkl_intel_lp64_dll.lib",
+    "Library/lib/mkl_intel_thread_dll.lib",
+    "Library/lib/mkl_pgi_thread_dll.lib",
+    "Library/lib/mkl_rt.lib",
+    "Library/lib/mkl_scalapack_ilp64_dll.lib",
+    "Library/lib/mkl_scalapack_lp64_dll.lib",
+    "Library/lib/mkl_sequential_dll.lib",
+    "Library/lib/mkl_tbb_thread_dll.lib",
+    "site.cfg",
+    ".nonadmin"
+  ],
+  "fn": "mkl-devel-2021.3.0-h57928b3_565.tar.bz2",
+  "license": "LicenseRef-ProprietaryIntel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-devel-2021.3.0-h57928b3_565",
+    "type": 1
+  },
+  "md5": "70416d6e553a681f3fe9d58219d8ed19",
+  "name": "mkl-devel",
+  "package_tarball_full_path": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-devel-2021.3.0-h57928b3_565.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/mkl_blacs_ilp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "866df39c7f4f2a1e2ef81a63250f7b467a463d1e5e02a8e6df76131be9933dd7",
+        "sha256_in_prefix": "866df39c7f4f2a1e2ef81a63250f7b467a463d1e5e02a8e6df76131be9933dd7",
+        "size_in_bytes": 83702
+      },
+      {
+        "_path": "Library/lib/mkl_blacs_lp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "72255d96c43a42065539740c9b8bfed4daacf127e4756da91afbb0de68027138",
+        "sha256_in_prefix": "72255d96c43a42065539740c9b8bfed4daacf127e4756da91afbb0de68027138",
+        "size_in_bytes": 83184
+      },
+      {
+        "_path": "Library/lib/mkl_cdft_core_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "cd22b4848f58c9610bb05ff420b4e333d5154efe4fd011a85b12afeeca7408fe",
+        "sha256_in_prefix": "cd22b4848f58c9610bb05ff420b4e333d5154efe4fd011a85b12afeeca7408fe",
+        "size_in_bytes": 7626
+      },
+      {
+        "_path": "Library/lib/mkl_core_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "d5156102e579ff0ed31f9911945e1e70ea0a9668d7f1085f2e57da6fd1b687fa",
+        "sha256_in_prefix": "d5156102e579ff0ed31f9911945e1e70ea0a9668d7f1085f2e57da6fd1b687fa",
+        "size_in_bytes": 3654454
+      },
+      {
+        "_path": "Library/lib/mkl_intel_ilp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "c4c2019a5d9c0db5d49bf7ffb3a90f76e916f725595cdf2c38e9b2a302a54973",
+        "sha256_in_prefix": "c4c2019a5d9c0db5d49bf7ffb3a90f76e916f725595cdf2c38e9b2a302a54973",
+        "size_in_bytes": 25152398
+      },
+      {
+        "_path": "Library/lib/mkl_intel_lp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "f6f7475196d471c99eab8d57e2395c613c524a8f8fdce78ae292e0cd9c54b867",
+        "sha256_in_prefix": "f6f7475196d471c99eab8d57e2395c613c524a8f8fdce78ae292e0cd9c54b867",
+        "size_in_bytes": 25443022
+      },
+      {
+        "_path": "Library/lib/mkl_intel_thread_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "a866a16a1fdb513cd4ba9407bc17187af99e7b832d7abab6452f704e7a4193b7",
+        "sha256_in_prefix": "a866a16a1fdb513cd4ba9407bc17187af99e7b832d7abab6452f704e7a4193b7",
+        "size_in_bytes": 2082100
+      },
+      {
+        "_path": "Library/lib/mkl_pgi_thread_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "f3c57052d90749f8161b54f5fd59c446b4cc29859fd7e660c8786628aba9539e",
+        "sha256_in_prefix": "f3c57052d90749f8161b54f5fd59c446b4cc29859fd7e660c8786628aba9539e",
+        "size_in_bytes": 2067366
+      },
+      {
+        "_path": "Library/lib/mkl_rt.lib",
+        "path_type": "hardlink",
+        "sha256": "a344dc08a573ea0aa2572fd692a2a823e886cdd93db4ba6e0c804a12210bb5b8",
+        "sha256_in_prefix": "a344dc08a573ea0aa2572fd692a2a823e886cdd93db4ba6e0c804a12210bb5b8",
+        "size_in_bytes": 4006060
+      },
+      {
+        "_path": "Library/lib/mkl_scalapack_ilp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "f62edccb4f11067e1cc6fa8ed31f36e3e49a215b6eb84489301207f7a1658551",
+        "sha256_in_prefix": "f62edccb4f11067e1cc6fa8ed31f36e3e49a215b6eb84489301207f7a1658551",
+        "size_in_bytes": 638248
+      },
+      {
+        "_path": "Library/lib/mkl_scalapack_lp64_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "da0ef8cac59a1d9fd5dba2f871f6de012299823b364ce3a03df3a54cfad63fce",
+        "sha256_in_prefix": "da0ef8cac59a1d9fd5dba2f871f6de012299823b364ce3a03df3a54cfad63fce",
+        "size_in_bytes": 634670
+      },
+      {
+        "_path": "Library/lib/mkl_sequential_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "4b4a23f5a42337997ac17ea226c336a8e23596da21495c52a8e54916cd6641fb",
+        "sha256_in_prefix": "4b4a23f5a42337997ac17ea226c336a8e23596da21495c52a8e54916cd6641fb",
+        "size_in_bytes": 2067066
+      },
+      {
+        "_path": "Library/lib/mkl_tbb_thread_dll.lib",
+        "path_type": "hardlink",
+        "sha256": "f6a2b3453906d2feb0188cc1c5ba7ce388033f0af944b31428ab37ccfc4716f5",
+        "sha256_in_prefix": "f6a2b3453906d2feb0188cc1c5ba7ce388033f0af944b31428ab37ccfc4716f5",
+        "size_in_bytes": 2067066
+      },
+      {
+        "_path": "site.cfg",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:\\bld\\intel_repack_1625332642426\\_h_env",
+        "sha256": "9dd57f92c85c4e70d2ea57c80780712d30a8df13ba4925da609cdc94d9ec4693",
+        "sha256_in_prefix": "7ef6b2d0c3cd7db31febfa71abecc20f50a327a552d4f63ba6fd844acd88f959",
+        "size_in_bytes": 194
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "eb139a6cb95df14903ea192d5dc4b1de836d4ca6af8bedb59ffc7138e25d2ffe",
+  "size": 5971135,
+  "subdir": "win-64",
+  "timestamp": 1625334178383,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/mkl-devel-2021.3.0-h57928b3_565.tar.bz2",
+  "version": "2021.3.0"
+}

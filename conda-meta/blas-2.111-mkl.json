@@ -1,0 +1,41 @@
+{
+  "build": "mkl",
+  "build_number": 11,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "blas-devel 3.9.0 11_win64_mkl",
+    "libblas 3.9.0 11_win64_mkl",
+    "libcblas 3.9.0 11_win64_mkl",
+    "liblapack 3.9.0 11_win64_mkl",
+    "liblapacke 3.9.0 11_win64_mkl",
+    "m2w64-gcc-libs"
+  ],
+  "extracted_package_dir": "C:\\Users\\a\\anaconda3\\pkgs\\blas-2.111-mkl",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "blas-2.111-mkl.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\a\\anaconda3\\pkgs\\blas-2.111-mkl",
+    "type": 1
+  },
+  "md5": "198f9b1c6be5b08ff4bd7d4468136396",
+  "name": "blas",
+  "package_tarball_full_path": "C:\\Users\\a\\anaconda3\\pkgs\\blas-2.111-mkl.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "865216b419530dedd660a9da996708194e798464539cf75fa91b15561f3fe1bb",
+  "size": 13093,
+  "subdir": "win-64",
+  "timestamp": 1628596720535,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/blas-2.111-mkl.tar.bz2",
+  "version": "2.111"
+}

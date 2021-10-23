@@ -1,0 +1,1211 @@
+{
+  "build": "hb70f87d_564",
+  "build_number": 564,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-include-2021.3.0-hb70f87d_564",
+  "features": "",
+  "files": [
+    "Library/include/blas.f90",
+    "Library/include/fftw/fftw.h",
+    "Library/include/fftw/fftw3-mpi.f03",
+    "Library/include/fftw/fftw3-mpi.h",
+    "Library/include/fftw/fftw3-mpi_mkl.h",
+    "Library/include/fftw/fftw3.f",
+    "Library/include/fftw/fftw3.f03",
+    "Library/include/fftw/fftw3.h",
+    "Library/include/fftw/fftw3_mkl.f",
+    "Library/include/fftw/fftw3_mkl.h",
+    "Library/include/fftw/fftw3_mkl_f77.h",
+    "Library/include/fftw/fftw_f77.i",
+    "Library/include/fftw/fftw_mpi.h",
+    "Library/include/fftw/fftw_threads.h",
+    "Library/include/fftw/offload/fftw3_omp_offload.f90",
+    "Library/include/fftw/offload/fftw3_omp_offload.h",
+    "Library/include/fftw/offload/fftw3_omp_offload_common.h",
+    "Library/include/fftw/rfftw.h",
+    "Library/include/fftw/rfftw_mpi.h",
+    "Library/include/fftw/rfftw_threads.h",
+    "Library/include/i_malloc.h",
+    "Library/include/intel64/ilp64/blas95.mod",
+    "Library/include/intel64/ilp64/f95_precision.mod",
+    "Library/include/intel64/ilp64/lapack95.mod",
+    "Library/include/intel64/ilp64/mkl_service.mod",
+    "Library/include/intel64/lp64/blas95.mod",
+    "Library/include/intel64/lp64/f95_precision.mod",
+    "Library/include/intel64/lp64/lapack95.mod",
+    "Library/include/intel64/lp64/mkl_service.mod",
+    "Library/include/lapack.f90",
+    "Library/include/mkl.fi",
+    "Library/include/mkl.h",
+    "Library/include/mkl_blacs.h",
+    "Library/include/mkl_blas.f90",
+    "Library/include/mkl_blas.fi",
+    "Library/include/mkl_blas.h",
+    "Library/include/mkl_blas_omp_offload.f90",
+    "Library/include/mkl_blas_omp_offload.h",
+    "Library/include/mkl_blas_omp_offload_ilp64.f90",
+    "Library/include/mkl_blas_omp_offload_ilp64_no_array_check.f90",
+    "Library/include/mkl_blas_omp_offload_lp64.f90",
+    "Library/include/mkl_blas_omp_offload_lp64_no_array_check.f90",
+    "Library/include/mkl_blas_omp_variant.h",
+    "Library/include/mkl_blas_omp_variant_ilp64.f90",
+    "Library/include/mkl_blas_omp_variant_ilp64_no_array_check.f90",
+    "Library/include/mkl_blas_omp_variant_lp64.f90",
+    "Library/include/mkl_blas_omp_variant_lp64_no_array_check.f90",
+    "Library/include/mkl_blas_stdcall.h",
+    "Library/include/mkl_cblas.h",
+    "Library/include/mkl_cdft.f90",
+    "Library/include/mkl_cdft.h",
+    "Library/include/mkl_cdft_types.h",
+    "Library/include/mkl_cluster_sparse_solver.f90",
+    "Library/include/mkl_cluster_sparse_solver.fi",
+    "Library/include/mkl_cluster_sparse_solver.h",
+    "Library/include/mkl_compact.h",
+    "Library/include/mkl_df.f90",
+    "Library/include/mkl_df.h",
+    "Library/include/mkl_df_defines.h",
+    "Library/include/mkl_df_functions.h",
+    "Library/include/mkl_df_types.h",
+    "Library/include/mkl_dfti.f90",
+    "Library/include/mkl_dfti.h",
+    "Library/include/mkl_dfti_omp_offload.f90",
+    "Library/include/mkl_dfti_omp_offload.h",
+    "Library/include/mkl_direct_blas.h",
+    "Library/include/mkl_direct_blas_kernels.h",
+    "Library/include/mkl_direct_call.fi",
+    "Library/include/mkl_direct_call.h",
+    "Library/include/mkl_direct_lapack.h",
+    "Library/include/mkl_direct_types.h",
+    "Library/include/mkl_dss.f90",
+    "Library/include/mkl_dss.fi",
+    "Library/include/mkl_dss.h",
+    "Library/include/mkl_graph.h",
+    "Library/include/mkl_jit_blas.f90",
+    "Library/include/mkl_jit_blas_ilp64.f90",
+    "Library/include/mkl_jit_blas_lp64.f90",
+    "Library/include/mkl_lapack.fi",
+    "Library/include/mkl_lapack.h",
+    "Library/include/mkl_lapack_omp_offload.f90",
+    "Library/include/mkl_lapack_omp_offload.h",
+    "Library/include/mkl_lapack_omp_offload_ilp64.f90",
+    "Library/include/mkl_lapack_omp_offload_lp64.f90",
+    "Library/include/mkl_lapack_omp_variant.h",
+    "Library/include/mkl_lapack_omp_variant_ilp64.f90",
+    "Library/include/mkl_lapack_omp_variant_lp64.f90",
+    "Library/include/mkl_lapack_stdcall.h",
+    "Library/include/mkl_lapacke.h",
+    "Library/include/mkl_omp_offload.f90",
+    "Library/include/mkl_omp_offload.h",
+    "Library/include/mkl_omp_variant.h",
+    "Library/include/mkl_pardiso.f90",
+    "Library/include/mkl_pardiso.fi",
+    "Library/include/mkl_pardiso.h",
+    "Library/include/mkl_pblas.h",
+    "Library/include/mkl_poisson.f90",
+    "Library/include/mkl_poisson.h",
+    "Library/include/mkl_rci.f90",
+    "Library/include/mkl_rci.fi",
+    "Library/include/mkl_rci.h",
+    "Library/include/mkl_scalapack.h",
+    "Library/include/mkl_service.f90",
+    "Library/include/mkl_service.fi",
+    "Library/include/mkl_service.h",
+    "Library/include/mkl_solvers_ee.f90",
+    "Library/include/mkl_solvers_ee.fi",
+    "Library/include/mkl_solvers_ee.h",
+    "Library/include/mkl_solvers_ee_stdcall.h",
+    "Library/include/mkl_sparse_handle.f90",
+    "Library/include/mkl_sparse_handle.fi",
+    "Library/include/mkl_sparse_handle.h",
+    "Library/include/mkl_sparse_qr.f90",
+    "Library/include/mkl_sparse_qr.h",
+    "Library/include/mkl_spblas.f90",
+    "Library/include/mkl_spblas.fi",
+    "Library/include/mkl_spblas.h",
+    "Library/include/mkl_spblas_omp_offload.h",
+    "Library/include/mkl_spblas_omp_variant.h",
+    "Library/include/mkl_spblas_stdcall.h",
+    "Library/include/mkl_trans.fi",
+    "Library/include/mkl_trans.h",
+    "Library/include/mkl_trig_transforms.f90",
+    "Library/include/mkl_trig_transforms.h",
+    "Library/include/mkl_types.h",
+    "Library/include/mkl_version.h",
+    "Library/include/mkl_vml.f90",
+    "Library/include/mkl_vml.fi",
+    "Library/include/mkl_vml.h",
+    "Library/include/mkl_vml_defines.h",
+    "Library/include/mkl_vml_functions.h",
+    "Library/include/mkl_vml_omp_offload.f90",
+    "Library/include/mkl_vml_omp_offload.h",
+    "Library/include/mkl_vml_omp_variant.f90",
+    "Library/include/mkl_vml_omp_variant.h",
+    "Library/include/mkl_vml_types.h",
+    "Library/include/mkl_vsl.f90",
+    "Library/include/mkl_vsl.fi",
+    "Library/include/mkl_vsl.h",
+    "Library/include/mkl_vsl_defines.h",
+    "Library/include/mkl_vsl_functions.h",
+    "Library/include/mkl_vsl_omp_offload.f90",
+    "Library/include/mkl_vsl_omp_offload.h",
+    "Library/include/mkl_vsl_omp_variant.f90",
+    "Library/include/mkl_vsl_omp_variant.h",
+    "Library/include/mkl_vsl_subroutine.fi",
+    "Library/include/mkl_vsl_types.h",
+    ".nonadmin"
+  ],
+  "fn": "mkl-include-2021.3.0-hb70f87d_564.tar.bz2",
+  "license": "LicenseRef-ProprietaryIntel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-include-2021.3.0-hb70f87d_564",
+    "type": 1
+  },
+  "md5": "9756d1232c0f75d27d4dcfd372ae2cc0",
+  "name": "mkl-include",
+  "package_tarball_full_path": "C:\\Users\\a\\anaconda3\\pkgs\\mkl-include-2021.3.0-hb70f87d_564.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/include/blas.f90",
+        "path_type": "hardlink",
+        "sha256": "6317cbea6aa4a2a311f465727e9d4e892feea5e65b9a1d9c2d67fa18e414733b",
+        "sha256_in_prefix": "6317cbea6aa4a2a311f465727e9d4e892feea5e65b9a1d9c2d67fa18e414733b",
+        "size_in_bytes": 96628
+      },
+      {
+        "_path": "Library/include/fftw/fftw.h",
+        "path_type": "hardlink",
+        "sha256": "04e7d0dbe9536c3ac5ed95759aa276503acf32192991e29eda0e67b1fef79d40",
+        "sha256_in_prefix": "04e7d0dbe9536c3ac5ed95759aa276503acf32192991e29eda0e67b1fef79d40",
+        "size_in_bytes": 12311
+      },
+      {
+        "_path": "Library/include/fftw/fftw3-mpi.f03",
+        "path_type": "hardlink",
+        "sha256": "d91128ff5fa8c5a5a097d30867c7c2b233ab50c01eb8f80010f39b4ffaa46b2c",
+        "sha256_in_prefix": "d91128ff5fa8c5a5a097d30867c7c2b233ab50c01eb8f80010f39b4ffaa46b2c",
+        "size_in_bytes": 37839
+      },
+      {
+        "_path": "Library/include/fftw/fftw3-mpi.h",
+        "path_type": "hardlink",
+        "sha256": "2f610bad204da455d4421b62f7ecd6995bacb07aa8ec8e2d0c94fdb320a5d867",
+        "sha256_in_prefix": "2f610bad204da455d4421b62f7ecd6995bacb07aa8ec8e2d0c94fdb320a5d867",
+        "size_in_bytes": 9842
+      },
+      {
+        "_path": "Library/include/fftw/fftw3-mpi_mkl.h",
+        "path_type": "hardlink",
+        "sha256": "6d6abddd8aa5bfcf3427c1504e3f720080f0a0edb734d2169ea361c3ae9499cb",
+        "sha256_in_prefix": "6d6abddd8aa5bfcf3427c1504e3f720080f0a0edb734d2169ea361c3ae9499cb",
+        "size_in_bytes": 1968
+      },
+      {
+        "_path": "Library/include/fftw/fftw3.f",
+        "path_type": "hardlink",
+        "sha256": "22f048d1346f302170648b00e4c0e73f54024430d9430289c2961db1c60a81ab",
+        "sha256_in_prefix": "22f048d1346f302170648b00e4c0e73f54024430d9430289c2961db1c60a81ab",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "Library/include/fftw/fftw3.f03",
+        "path_type": "hardlink",
+        "sha256": "0cea9d411e98df59f25e8806b051988e266a8670cf82363d5e6ea94c0d828960",
+        "sha256_in_prefix": "0cea9d411e98df59f25e8806b051988e266a8670cf82363d5e6ea94c0d828960",
+        "size_in_bytes": 55331
+      },
+      {
+        "_path": "Library/include/fftw/fftw3.h",
+        "path_type": "hardlink",
+        "sha256": "174090d7148905e4b817a59530f4b1e2e1e5db5d46b3ff0e47c2a9665c7fe931",
+        "sha256_in_prefix": "174090d7148905e4b817a59530f4b1e2e1e5db5d46b3ff0e47c2a9665c7fe931",
+        "size_in_bytes": 18359
+      },
+      {
+        "_path": "Library/include/fftw/fftw3_mkl.f",
+        "path_type": "hardlink",
+        "sha256": "35fcc59f6c6d62e0ba26245c533b350028c8cc717c9b11324304aa18f9c0cca8",
+        "sha256_in_prefix": "35fcc59f6c6d62e0ba26245c533b350028c8cc717c9b11324304aa18f9c0cca8",
+        "size_in_bytes": 3587
+      },
+      {
+        "_path": "Library/include/fftw/fftw3_mkl.h",
+        "path_type": "hardlink",
+        "sha256": "734f77dc279f7102ef896cfa875235c3f633026c0b898ca8468c44f9458162ee",
+        "sha256_in_prefix": "734f77dc279f7102ef896cfa875235c3f633026c0b898ca8468c44f9458162ee",
+        "size_in_bytes": 2172
+      },
+      {
+        "_path": "Library/include/fftw/fftw3_mkl_f77.h",
+        "path_type": "hardlink",
+        "sha256": "ebae2cc0fc32037db906747fd7c154fb81215f63792c1ed4112f4c04a6d5086a",
+        "sha256_in_prefix": "ebae2cc0fc32037db906747fd7c154fb81215f63792c1ed4112f4c04a6d5086a",
+        "size_in_bytes": 31785
+      },
+      {
+        "_path": "Library/include/fftw/fftw_f77.i",
+        "path_type": "hardlink",
+        "sha256": "84fdcada0e5d377e274beccccd58b74022a9f5cb9370209d2939c01efb04bd9f",
+        "sha256_in_prefix": "84fdcada0e5d377e274beccccd58b74022a9f5cb9370209d2939c01efb04bd9f",
+        "size_in_bytes": 1472
+      },
+      {
+        "_path": "Library/include/fftw/fftw_mpi.h",
+        "path_type": "hardlink",
+        "sha256": "b1f537f2008457e7e7a270af575684eb3e2b22c8caa3b898535b261e0fe041b8",
+        "sha256_in_prefix": "b1f537f2008457e7e7a270af575684eb3e2b22c8caa3b898535b261e0fe041b8",
+        "size_in_bytes": 6661
+      },
+      {
+        "_path": "Library/include/fftw/fftw_threads.h",
+        "path_type": "hardlink",
+        "sha256": "54e7a3a1c9f7c18b94a60ac31e165c6816a6868760eeec668dbee8c07ce5df7b",
+        "sha256_in_prefix": "54e7a3a1c9f7c18b94a60ac31e165c6816a6868760eeec668dbee8c07ce5df7b",
+        "size_in_bytes": 1242
+      },
+      {
+        "_path": "Library/include/fftw/offload/fftw3_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "ddbfa299882546170f73b74d397551402108a965a3d05614c1f0ff019c6dda6a",
+        "sha256_in_prefix": "ddbfa299882546170f73b74d397551402108a965a3d05614c1f0ff019c6dda6a",
+        "size_in_bytes": 16695
+      },
+      {
+        "_path": "Library/include/fftw/offload/fftw3_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "b644f53cacb0cfafc44242ef88d45d7927247dc3ba7c9766cb9f345ebd9910f3",
+        "sha256_in_prefix": "b644f53cacb0cfafc44242ef88d45d7927247dc3ba7c9766cb9f345ebd9910f3",
+        "size_in_bytes": 9867
+      },
+      {
+        "_path": "Library/include/fftw/offload/fftw3_omp_offload_common.h",
+        "path_type": "hardlink",
+        "sha256": "f17279dd0ab32ded38aaac5ee5a185fde4cbdfff3907e68716f3552016c00b25",
+        "sha256_in_prefix": "f17279dd0ab32ded38aaac5ee5a185fde4cbdfff3907e68716f3552016c00b25",
+        "size_in_bytes": 5555
+      },
+      {
+        "_path": "Library/include/fftw/rfftw.h",
+        "path_type": "hardlink",
+        "sha256": "90afbf359e65868ef5bb7091281000072476ee4d016adef017d042dbdbfa1abd",
+        "sha256_in_prefix": "90afbf359e65868ef5bb7091281000072476ee4d016adef017d042dbdbfa1abd",
+        "size_in_bytes": 3368
+      },
+      {
+        "_path": "Library/include/fftw/rfftw_mpi.h",
+        "path_type": "hardlink",
+        "sha256": "497994ee2c642cd2af552fe225864aa21468589dff894cc4a4065b27a68c7ebb",
+        "sha256_in_prefix": "497994ee2c642cd2af552fe225864aa21468589dff894cc4a4065b27a68c7ebb",
+        "size_in_bytes": 3050
+      },
+      {
+        "_path": "Library/include/fftw/rfftw_threads.h",
+        "path_type": "hardlink",
+        "sha256": "20ded16cc6e70f36312b7a2e338ffdea7d6c73d6075d20eed03b2dba71abc9be",
+        "sha256_in_prefix": "20ded16cc6e70f36312b7a2e338ffdea7d6c73d6075d20eed03b2dba71abc9be",
+        "size_in_bytes": 1635
+      },
+      {
+        "_path": "Library/include/i_malloc.h",
+        "path_type": "hardlink",
+        "sha256": "7012169951660772d0c8aba42c9f2adfd6b581830d7186a0fb2a0116c8d96bbf",
+        "sha256_in_prefix": "7012169951660772d0c8aba42c9f2adfd6b581830d7186a0fb2a0116c8d96bbf",
+        "size_in_bytes": 3903
+      },
+      {
+        "_path": "Library/include/intel64/ilp64/blas95.mod",
+        "path_type": "hardlink",
+        "sha256": "5ea0aebcf67f543fbc1ea26a14dccb1e69642188b64ea56d2e3529c02f077915",
+        "sha256_in_prefix": "5ea0aebcf67f543fbc1ea26a14dccb1e69642188b64ea56d2e3529c02f077915",
+        "size_in_bytes": 176647
+      },
+      {
+        "_path": "Library/include/intel64/ilp64/f95_precision.mod",
+        "path_type": "hardlink",
+        "sha256": "20bb36fe6346409718347cb98dd68a539259d1e43538c56813e61760cef223f1",
+        "sha256_in_prefix": "20bb36fe6346409718347cb98dd68a539259d1e43538c56813e61760cef223f1",
+        "size_in_bytes": 579
+      },
+      {
+        "_path": "Library/include/intel64/ilp64/lapack95.mod",
+        "path_type": "hardlink",
+        "sha256": "c0eb59e37b6fcd6557a402932f98f2febad6010c79cf81d39eb847b32f1676f9",
+        "sha256_in_prefix": "c0eb59e37b6fcd6557a402932f98f2febad6010c79cf81d39eb847b32f1676f9",
+        "size_in_bytes": 1345741
+      },
+      {
+        "_path": "Library/include/intel64/ilp64/mkl_service.mod",
+        "path_type": "hardlink",
+        "sha256": "e267ca9a878c1c7c6c5e2476520fc66e7924c91cffffd67815e83be48e04b189",
+        "sha256_in_prefix": "e267ca9a878c1c7c6c5e2476520fc66e7924c91cffffd67815e83be48e04b189",
+        "size_in_bytes": 17308
+      },
+      {
+        "_path": "Library/include/intel64/lp64/blas95.mod",
+        "path_type": "hardlink",
+        "sha256": "d7e621ad7c507ea5192341ed708a0eca8e6295a02f79dec3f63637597d8cf2c4",
+        "sha256_in_prefix": "d7e621ad7c507ea5192341ed708a0eca8e6295a02f79dec3f63637597d8cf2c4",
+        "size_in_bytes": 176647
+      },
+      {
+        "_path": "Library/include/intel64/lp64/f95_precision.mod",
+        "path_type": "hardlink",
+        "sha256": "1b55313c36eedf50979b47fcbea5638979cf6953d8c18b9662ea7cdf8586c5f7",
+        "sha256_in_prefix": "1b55313c36eedf50979b47fcbea5638979cf6953d8c18b9662ea7cdf8586c5f7",
+        "size_in_bytes": 579
+      },
+      {
+        "_path": "Library/include/intel64/lp64/lapack95.mod",
+        "path_type": "hardlink",
+        "sha256": "0f287a499dfbca267ae0bcd8bf31de0bc023ef7beb99838bca9ceebf7c746fe1",
+        "sha256_in_prefix": "0f287a499dfbca267ae0bcd8bf31de0bc023ef7beb99838bca9ceebf7c746fe1",
+        "size_in_bytes": 1345741
+      },
+      {
+        "_path": "Library/include/intel64/lp64/mkl_service.mod",
+        "path_type": "hardlink",
+        "sha256": "34e3a0e8a3d8c2ee5a7937bedacdfdc8e15f0dade2143b95b3a5db5509846cac",
+        "sha256_in_prefix": "34e3a0e8a3d8c2ee5a7937bedacdfdc8e15f0dade2143b95b3a5db5509846cac",
+        "size_in_bytes": 17308
+      },
+      {
+        "_path": "Library/include/lapack.f90",
+        "path_type": "hardlink",
+        "sha256": "4e4223fc5a31aca12d919fc19e6326157d98d1416dcd519afe67d44f8354d8aa",
+        "sha256_in_prefix": "4e4223fc5a31aca12d919fc19e6326157d98d1416dcd519afe67d44f8354d8aa",
+        "size_in_bytes": 671772
+      },
+      {
+        "_path": "Library/include/mkl.fi",
+        "path_type": "hardlink",
+        "sha256": "3662f7a0404cce37bf1576b61b55e5be1ca529f1685273db8f5f006d890d5d55",
+        "sha256_in_prefix": "3662f7a0404cce37bf1576b61b55e5be1ca529f1685273db8f5f006d890d5d55",
+        "size_in_bytes": 1485
+      },
+      {
+        "_path": "Library/include/mkl.h",
+        "path_type": "hardlink",
+        "sha256": "5b6d0a3ff8536db7d10b0ddbe5fc43af39b8372e61e223f1cf1bf39738cda8d8",
+        "sha256_in_prefix": "5b6d0a3ff8536db7d10b0ddbe5fc43af39b8372e61e223f1cf1bf39738cda8d8",
+        "size_in_bytes": 2078
+      },
+      {
+        "_path": "Library/include/mkl_blacs.h",
+        "path_type": "hardlink",
+        "sha256": "080feddedef9bed9600822e0c553dd9d3c795e27dba84b4fe49b572f9475dd56",
+        "sha256_in_prefix": "080feddedef9bed9600822e0c553dd9d3c795e27dba84b4fe49b572f9475dd56",
+        "size_in_bytes": 47563
+      },
+      {
+        "_path": "Library/include/mkl_blas.f90",
+        "path_type": "hardlink",
+        "sha256": "eb9b787df1d52052263a770e5288ad7527f0b2f0e645365dc9688ecf7f64ccdb",
+        "sha256_in_prefix": "eb9b787df1d52052263a770e5288ad7527f0b2f0e645365dc9688ecf7f64ccdb",
+        "size_in_bytes": 6726
+      },
+      {
+        "_path": "Library/include/mkl_blas.fi",
+        "path_type": "hardlink",
+        "sha256": "d0a84589c5ae0e9f24a7a36c81ef78ebf34a76a6d4b8e97134376f83f116fff6",
+        "sha256_in_prefix": "d0a84589c5ae0e9f24a7a36c81ef78ebf34a76a6d4b8e97134376f83f116fff6",
+        "size_in_bytes": 77276
+      },
+      {
+        "_path": "Library/include/mkl_blas.h",
+        "path_type": "hardlink",
+        "sha256": "2e0516b5e335c3411ac58ab2ab5df60a6db32988c56b8fd74bc4571da131eeb2",
+        "sha256_in_prefix": "2e0516b5e335c3411ac58ab2ab5df60a6db32988c56b8fd74bc4571da131eeb2",
+        "size_in_bytes": 113945
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "b27835279e2b064b98c958d99c3818c388fcfd473d0d9544835802bb4db8dff8",
+        "sha256_in_prefix": "b27835279e2b064b98c958d99c3818c388fcfd473d0d9544835802bb4db8dff8",
+        "size_in_bytes": 1182
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "933c0f4f506dbe79a3d64f49000b31d2ee8c9a1b001a3d25e0b2a6b2c9633afb",
+        "sha256_in_prefix": "933c0f4f506dbe79a3d64f49000b31d2ee8c9a1b001a3d25e0b2a6b2c9633afb",
+        "size_in_bytes": 168613
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload_ilp64.f90",
+        "path_type": "hardlink",
+        "sha256": "b8487c6f2d6d30b91f6925daac97de64ba05965961cc1ac476a6419161e28bee",
+        "sha256_in_prefix": "b8487c6f2d6d30b91f6925daac97de64ba05965961cc1ac476a6419161e28bee",
+        "size_in_bytes": 100344
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload_ilp64_no_array_check.f90",
+        "path_type": "hardlink",
+        "sha256": "755d72682616f6aad5c9aa6de8a812c0cc1c22f2b9fd5d5008f5448634000195",
+        "sha256_in_prefix": "755d72682616f6aad5c9aa6de8a812c0cc1c22f2b9fd5d5008f5448634000195",
+        "size_in_bytes": 117183
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload_lp64.f90",
+        "path_type": "hardlink",
+        "sha256": "c2b29cd67f59977c18c6827513f1c1bac24fa38c46f85e46e50d0e13ae4142da",
+        "sha256_in_prefix": "c2b29cd67f59977c18c6827513f1c1bac24fa38c46f85e46e50d0e13ae4142da",
+        "size_in_bytes": 100218
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_offload_lp64_no_array_check.f90",
+        "path_type": "hardlink",
+        "sha256": "25ef45aa613bcf52b9436d26d4fb30277c998ea0b89c17d395497acfe8eeb71c",
+        "sha256_in_prefix": "25ef45aa613bcf52b9436d26d4fb30277c998ea0b89c17d395497acfe8eeb71c",
+        "size_in_bytes": 116990
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "3641d36eaae550658b345e3d0bd3bd788c41dff059aea17878c3b5ffa1a01e01",
+        "sha256_in_prefix": "3641d36eaae550658b345e3d0bd3bd788c41dff059aea17878c3b5ffa1a01e01",
+        "size_in_bytes": 138700
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_variant_ilp64.f90",
+        "path_type": "hardlink",
+        "sha256": "a0f4348b0ebf4a7653b6418466ca70f477dc1f50377ddadcbf28b17d61d99703",
+        "sha256_in_prefix": "a0f4348b0ebf4a7653b6418466ca70f477dc1f50377ddadcbf28b17d61d99703",
+        "size_in_bytes": 83817
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_variant_ilp64_no_array_check.f90",
+        "path_type": "hardlink",
+        "sha256": "81b72ae60ac6a912683166527a664b04bcb6a0dece76989b2bbf233eebfc5a02",
+        "sha256_in_prefix": "81b72ae60ac6a912683166527a664b04bcb6a0dece76989b2bbf233eebfc5a02",
+        "size_in_bytes": 100588
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_variant_lp64.f90",
+        "path_type": "hardlink",
+        "sha256": "1a2a758a2b1446b02852f4287df90a9385925268748dc4c0014da507629c9f8d",
+        "sha256_in_prefix": "1a2a758a2b1446b02852f4287df90a9385925268748dc4c0014da507629c9f8d",
+        "size_in_bytes": 83450
+      },
+      {
+        "_path": "Library/include/mkl_blas_omp_variant_lp64_no_array_check.f90",
+        "path_type": "hardlink",
+        "sha256": "baba73c71a60e61fa1151dde1d686aa5ca0a5d1100be08c2a88105dc92e5f6d1",
+        "sha256_in_prefix": "baba73c71a60e61fa1151dde1d686aa5ca0a5d1100be08c2a88105dc92e5f6d1",
+        "size_in_bytes": 100184
+      },
+      {
+        "_path": "Library/include/mkl_blas_stdcall.h",
+        "path_type": "hardlink",
+        "sha256": "4e60a3a16ad5b19faf92386400f6685a2b90f03ead44b07a1012a19deaf9e562",
+        "sha256_in_prefix": "4e60a3a16ad5b19faf92386400f6685a2b90f03ead44b07a1012a19deaf9e562",
+        "size_in_bytes": 103008
+      },
+      {
+        "_path": "Library/include/mkl_cblas.h",
+        "path_type": "hardlink",
+        "sha256": "78e1fbf0e50a55bb0376e42ebbc1ff27b552801be07bd68065fabe12e50f0d75",
+        "sha256_in_prefix": "78e1fbf0e50a55bb0376e42ebbc1ff27b552801be07bd68065fabe12e50f0d75",
+        "size_in_bytes": 75542
+      },
+      {
+        "_path": "Library/include/mkl_cdft.f90",
+        "path_type": "hardlink",
+        "sha256": "d7b8802de1130b087bc5557ac65a276cd4524dab299defeaa3261978497afd9e",
+        "sha256_in_prefix": "d7b8802de1130b087bc5557ac65a276cd4524dab299defeaa3261978497afd9e",
+        "size_in_bytes": 25468
+      },
+      {
+        "_path": "Library/include/mkl_cdft.h",
+        "path_type": "hardlink",
+        "sha256": "7dcb17ae747088f5aafb803e15c6867b163ac8a5da3cd7e251e222e9700ccf33",
+        "sha256_in_prefix": "7dcb17ae747088f5aafb803e15c6867b163ac8a5da3cd7e251e222e9700ccf33",
+        "size_in_bytes": 1975
+      },
+      {
+        "_path": "Library/include/mkl_cdft_types.h",
+        "path_type": "hardlink",
+        "sha256": "f7fb2fb0c6a1894c651f6e87fe8227c7457fbcb451c851c7de90e643c915ecb6",
+        "sha256_in_prefix": "f7fb2fb0c6a1894c651f6e87fe8227c7457fbcb451c851c7de90e643c915ecb6",
+        "size_in_bytes": 1925
+      },
+      {
+        "_path": "Library/include/mkl_cluster_sparse_solver.f90",
+        "path_type": "hardlink",
+        "sha256": "92bf1f1135f7163fe47793cf215dac5b3304fca42f5312f9fb98d36711b082a0",
+        "sha256_in_prefix": "92bf1f1135f7163fe47793cf215dac5b3304fca42f5312f9fb98d36711b082a0",
+        "size_in_bytes": 27371
+      },
+      {
+        "_path": "Library/include/mkl_cluster_sparse_solver.fi",
+        "path_type": "hardlink",
+        "sha256": "714a6a67f369054c32905cd0dc6aced4ddd8a71319b9e875c0b67f03fbfe7b29",
+        "sha256_in_prefix": "714a6a67f369054c32905cd0dc6aced4ddd8a71319b9e875c0b67f03fbfe7b29",
+        "size_in_bytes": 11007
+      },
+      {
+        "_path": "Library/include/mkl_cluster_sparse_solver.h",
+        "path_type": "hardlink",
+        "sha256": "29593f43ae8d46fff24bde918df3630eb91549bf8ab974f556dac9f691ac60b1",
+        "sha256_in_prefix": "29593f43ae8d46fff24bde918df3630eb91549bf8ab974f556dac9f691ac60b1",
+        "size_in_bytes": 3900
+      },
+      {
+        "_path": "Library/include/mkl_compact.h",
+        "path_type": "hardlink",
+        "sha256": "0f147bfd3c4f840fefa8596f004499f86dcd1a8959b8794801e7a28cb6f2ebe3",
+        "sha256_in_prefix": "0f147bfd3c4f840fefa8596f004499f86dcd1a8959b8794801e7a28cb6f2ebe3",
+        "size_in_bytes": 10770
+      },
+      {
+        "_path": "Library/include/mkl_df.f90",
+        "path_type": "hardlink",
+        "sha256": "a93597b872592c0086ca9b58de3c05e5c216c11d005958a5c09275d9986585cc",
+        "sha256_in_prefix": "a93597b872592c0086ca9b58de3c05e5c216c11d005958a5c09275d9986585cc",
+        "size_in_bytes": 37385
+      },
+      {
+        "_path": "Library/include/mkl_df.h",
+        "path_type": "hardlink",
+        "sha256": "e454433dbdb96d6b49eec7f376bad349c56b801b969be68c1ed29d81c627d592",
+        "sha256_in_prefix": "e454433dbdb96d6b49eec7f376bad349c56b801b969be68c1ed29d81c627d592",
+        "size_in_bytes": 1134
+      },
+      {
+        "_path": "Library/include/mkl_df_defines.h",
+        "path_type": "hardlink",
+        "sha256": "b1372c186072a40ee7b401c660060b6f562edae53da809b20b94cd112889131b",
+        "sha256_in_prefix": "b1372c186072a40ee7b401c660060b6f562edae53da809b20b94cd112889131b",
+        "size_in_bytes": 7819
+      },
+      {
+        "_path": "Library/include/mkl_df_functions.h",
+        "path_type": "hardlink",
+        "sha256": "7eb5085f3d8e0a8cb34ab824b7580428a4910b6a3bc524acd1c81aa026b9d46c",
+        "sha256_in_prefix": "7eb5085f3d8e0a8cb34ab824b7580428a4910b6a3bc524acd1c81aa026b9d46c",
+        "size_in_bytes": 17468
+      },
+      {
+        "_path": "Library/include/mkl_df_types.h",
+        "path_type": "hardlink",
+        "sha256": "e7712fc4611c8bca6477e23f3be8aba01a62652925eaebe25defa8ab9d89173f",
+        "sha256_in_prefix": "e7712fc4611c8bca6477e23f3be8aba01a62652925eaebe25defa8ab9d89173f",
+        "size_in_bytes": 3147
+      },
+      {
+        "_path": "Library/include/mkl_dfti.f90",
+        "path_type": "hardlink",
+        "sha256": "fd599a9932071f271c4a430a01fc4af3ec384b95893de4f02a3fd533659e11ed",
+        "sha256_in_prefix": "fd599a9932071f271c4a430a01fc4af3ec384b95893de4f02a3fd533659e11ed",
+        "size_in_bytes": 32466
+      },
+      {
+        "_path": "Library/include/mkl_dfti.h",
+        "path_type": "hardlink",
+        "sha256": "5c271a8726ae4838568840184db6a66e812f46f3bbd08c05e1f90bb45adeb4f2",
+        "sha256_in_prefix": "5c271a8726ae4838568840184db6a66e812f46f3bbd08c05e1f90bb45adeb4f2",
+        "size_in_bytes": 10723
+      },
+      {
+        "_path": "Library/include/mkl_dfti_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "bc048cf0be8062d7aa29b71b4a0c605dec16c58c3751c63ca538f0fcccc31803",
+        "sha256_in_prefix": "bc048cf0be8062d7aa29b71b4a0c605dec16c58c3751c63ca538f0fcccc31803",
+        "size_in_bytes": 52487
+      },
+      {
+        "_path": "Library/include/mkl_dfti_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "d48f27088db84749b0ca3c8eba5458350cfb0a557b6a1dd0d96b9961c72a49af",
+        "sha256_in_prefix": "d48f27088db84749b0ca3c8eba5458350cfb0a557b6a1dd0d96b9961c72a49af",
+        "size_in_bytes": 2521
+      },
+      {
+        "_path": "Library/include/mkl_direct_blas.h",
+        "path_type": "hardlink",
+        "sha256": "7e303335d8fb13c1b0dfc2a015871c3f7f0839ba738af1c66970920e89c197c7",
+        "sha256_in_prefix": "7e303335d8fb13c1b0dfc2a015871c3f7f0839ba738af1c66970920e89c197c7",
+        "size_in_bytes": 31177
+      },
+      {
+        "_path": "Library/include/mkl_direct_blas_kernels.h",
+        "path_type": "hardlink",
+        "sha256": "00b0f7a3c73b8ae4ae5a91e5e009b5fbeba2eb515cfab36057361ed7965feb8c",
+        "sha256_in_prefix": "00b0f7a3c73b8ae4ae5a91e5e009b5fbeba2eb515cfab36057361ed7965feb8c",
+        "size_in_bytes": 308793
+      },
+      {
+        "_path": "Library/include/mkl_direct_call.fi",
+        "path_type": "hardlink",
+        "sha256": "da62b360bfec2a0533ff8ad8abcb8cf3d66d497b83c138e971fcf70cc80b68bc",
+        "sha256_in_prefix": "da62b360bfec2a0533ff8ad8abcb8cf3d66d497b83c138e971fcf70cc80b68bc",
+        "size_in_bytes": 5010
+      },
+      {
+        "_path": "Library/include/mkl_direct_call.h",
+        "path_type": "hardlink",
+        "sha256": "5067cdb714fd009ea26381151caaeede03bd9a915b2da9ff7787af2ea3ee16e7",
+        "sha256_in_prefix": "5067cdb714fd009ea26381151caaeede03bd9a915b2da9ff7787af2ea3ee16e7",
+        "size_in_bytes": 113342
+      },
+      {
+        "_path": "Library/include/mkl_direct_lapack.h",
+        "path_type": "hardlink",
+        "sha256": "26d2feb728dd100de20ed446a89f6580e261484f4afc7c63969b08422487250b",
+        "sha256_in_prefix": "26d2feb728dd100de20ed446a89f6580e261484f4afc7c63969b08422487250b",
+        "size_in_bytes": 119252
+      },
+      {
+        "_path": "Library/include/mkl_direct_types.h",
+        "path_type": "hardlink",
+        "sha256": "07843df79d1c6f95c3b13fce36390d77b44e8480270a36f1afe4b3681adddd68",
+        "sha256_in_prefix": "07843df79d1c6f95c3b13fce36390d77b44e8480270a36f1afe4b3681adddd68",
+        "size_in_bytes": 13092
+      },
+      {
+        "_path": "Library/include/mkl_dss.f90",
+        "path_type": "hardlink",
+        "sha256": "a0e6d707070bd5381ac7046028353414c59cff05d2f2068b323462c4d59d9aef",
+        "sha256_in_prefix": "a0e6d707070bd5381ac7046028353414c59cff05d2f2068b323462c4d59d9aef",
+        "size_in_bytes": 15504
+      },
+      {
+        "_path": "Library/include/mkl_dss.fi",
+        "path_type": "hardlink",
+        "sha256": "8b0a75b2a3d60573f00c75bb574b03c73100b3a3c5ffec27e6f2e171b0996a2c",
+        "sha256_in_prefix": "8b0a75b2a3d60573f00c75bb574b03c73100b3a3c5ffec27e6f2e171b0996a2c",
+        "size_in_bytes": 14566
+      },
+      {
+        "_path": "Library/include/mkl_dss.h",
+        "path_type": "hardlink",
+        "sha256": "0fafc46eac0a232ba3b2a0e89fcc6933ae82ee9e01723c151450eba16191a0ba",
+        "sha256_in_prefix": "0fafc46eac0a232ba3b2a0e89fcc6933ae82ee9e01723c151450eba16191a0ba",
+        "size_in_bytes": 8912
+      },
+      {
+        "_path": "Library/include/mkl_graph.h",
+        "path_type": "hardlink",
+        "sha256": "6c99c0cad747e851237238d9d643da4f6c092d41aa3be41e8bfc9f67845984fc",
+        "sha256_in_prefix": "6c99c0cad747e851237238d9d643da4f6c092d41aa3be41e8bfc9f67845984fc",
+        "size_in_bytes": 15872
+      },
+      {
+        "_path": "Library/include/mkl_jit_blas.f90",
+        "path_type": "hardlink",
+        "sha256": "7a19657728cf4e549c6a3f90a2a6a3132b57390d4581333e3fe276c85708febd",
+        "sha256_in_prefix": "7a19657728cf4e549c6a3f90a2a6a3132b57390d4581333e3fe276c85708febd",
+        "size_in_bytes": 1044
+      },
+      {
+        "_path": "Library/include/mkl_jit_blas_ilp64.f90",
+        "path_type": "hardlink",
+        "sha256": "a3f6b3e8de7f60952bdcc66c9b2b15f1cdcc1d399c210e60900bdf81213d1655",
+        "sha256_in_prefix": "a3f6b3e8de7f60952bdcc66c9b2b15f1cdcc1d399c210e60900bdf81213d1655",
+        "size_in_bytes": 6844
+      },
+      {
+        "_path": "Library/include/mkl_jit_blas_lp64.f90",
+        "path_type": "hardlink",
+        "sha256": "a01199b62f6dafe311a649b249f6a01d468d5acb108de4f8a6631adf75822400",
+        "sha256_in_prefix": "a01199b62f6dafe311a649b249f6a01d468d5acb108de4f8a6631adf75822400",
+        "size_in_bytes": 6766
+      },
+      {
+        "_path": "Library/include/mkl_lapack.fi",
+        "path_type": "hardlink",
+        "sha256": "b5bbbf8085820f0102e63aadb265f11fa66c2220ce194ed0e019adbedeb6f45c",
+        "sha256_in_prefix": "b5bbbf8085820f0102e63aadb265f11fa66c2220ce194ed0e019adbedeb6f45c",
+        "size_in_bytes": 650666
+      },
+      {
+        "_path": "Library/include/mkl_lapack.h",
+        "path_type": "hardlink",
+        "sha256": "2341e611698e8f0765ad1493840d3803acb9e2801e92f5e168f0a6089f4f6d89",
+        "sha256_in_prefix": "2341e611698e8f0765ad1493840d3803acb9e2801e92f5e168f0a6089f4f6d89",
+        "size_in_bytes": 2433348
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "0906fe725e7100b8ee3f7d8a303f46a6ab665a8d74ce9df2f9b2703809960f65",
+        "sha256_in_prefix": "0906fe725e7100b8ee3f7d8a303f46a6ab665a8d74ce9df2f9b2703809960f65",
+        "size_in_bytes": 1078
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "713bb3f769feb148a1bec04aebc0638f4e96bf5728e17f6f558647590c785d77",
+        "sha256_in_prefix": "713bb3f769feb148a1bec04aebc0638f4e96bf5728e17f6f558647590c785d77",
+        "size_in_bytes": 36387
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_offload_ilp64.f90",
+        "path_type": "hardlink",
+        "sha256": "4c1a2c75b8d4ebb9b1f9bbd2a90545718dd3988877e567bc7191d2669133cf17",
+        "sha256_in_prefix": "4c1a2c75b8d4ebb9b1f9bbd2a90545718dd3988877e567bc7191d2669133cf17",
+        "size_in_bytes": 64193
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_offload_lp64.f90",
+        "path_type": "hardlink",
+        "sha256": "7cfb726b358a23e1797b60968105877e273f42b7c26e3b1e0555ee19b35cee7b",
+        "sha256_in_prefix": "7cfb726b358a23e1797b60968105877e273f42b7c26e3b1e0555ee19b35cee7b",
+        "size_in_bytes": 64098
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "a714eb32aa6c013cceae51daff12e9e0b6de939a6e7927d8b2a691ef4efa6785",
+        "sha256_in_prefix": "a714eb32aa6c013cceae51daff12e9e0b6de939a6e7927d8b2a691ef4efa6785",
+        "size_in_bytes": 33169
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_variant_ilp64.f90",
+        "path_type": "hardlink",
+        "sha256": "9d796fa6f9cf400a3370e4b38ca73357c3451538092dfb9f389635a1d3153e37",
+        "sha256_in_prefix": "9d796fa6f9cf400a3370e4b38ca73357c3451538092dfb9f389635a1d3153e37",
+        "size_in_bytes": 73576
+      },
+      {
+        "_path": "Library/include/mkl_lapack_omp_variant_lp64.f90",
+        "path_type": "hardlink",
+        "sha256": "a72afb14126546548fae9b901c3d826e0b8282e9ad46a26009a324d672c946bd",
+        "sha256_in_prefix": "a72afb14126546548fae9b901c3d826e0b8282e9ad46a26009a324d672c946bd",
+        "size_in_bytes": 72408
+      },
+      {
+        "_path": "Library/include/mkl_lapack_stdcall.h",
+        "path_type": "hardlink",
+        "sha256": "1bd0ac853fd9c7b7376a88a0dd676b2cd0155b8543d88fe99c5beb1a2d1a279a",
+        "sha256_in_prefix": "1bd0ac853fd9c7b7376a88a0dd676b2cd0155b8543d88fe99c5beb1a2d1a279a",
+        "size_in_bytes": 2931761
+      },
+      {
+        "_path": "Library/include/mkl_lapacke.h",
+        "path_type": "hardlink",
+        "sha256": "24a914502fcead04202132c47d647ccdc4d6428a13d7b71198803883ee44d00c",
+        "sha256_in_prefix": "24a914502fcead04202132c47d647ccdc4d6428a13d7b71198803883ee44d00c",
+        "size_in_bytes": 907698
+      },
+      {
+        "_path": "Library/include/mkl_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "f80c846752125ed9828459662f5af5317d37968d1abe2770d4a97eca5b23de8c",
+        "sha256_in_prefix": "f80c846752125ed9828459662f5af5317d37968d1abe2770d4a97eca5b23de8c",
+        "size_in_bytes": 1162
+      },
+      {
+        "_path": "Library/include/mkl_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "22b6400ce0e536c95736f3d105678df30b29acc7e17fd9bcba7d865a3de0046a",
+        "sha256_in_prefix": "22b6400ce0e536c95736f3d105678df30b29acc7e17fd9bcba7d865a3de0046a",
+        "size_in_bytes": 1260
+      },
+      {
+        "_path": "Library/include/mkl_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "87027ec2ea729fe10b39279d48dd9d06ba279889637576324afae23e99a70baa",
+        "sha256_in_prefix": "87027ec2ea729fe10b39279d48dd9d06ba279889637576324afae23e99a70baa",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Library/include/mkl_pardiso.f90",
+        "path_type": "hardlink",
+        "sha256": "3e0fb95c33ee68d73660ccf1313f3949db3d98eb3379d4a6bb97647c0c1c04ec",
+        "sha256_in_prefix": "3e0fb95c33ee68d73660ccf1313f3949db3d98eb3379d4a6bb97647c0c1c04ec",
+        "size_in_bytes": 24577
+      },
+      {
+        "_path": "Library/include/mkl_pardiso.fi",
+        "path_type": "hardlink",
+        "sha256": "84c92628c6a1f75a25deb20229508022a646fa3d254d7f68120c03f942653720",
+        "sha256_in_prefix": "84c92628c6a1f75a25deb20229508022a646fa3d254d7f68120c03f942653720",
+        "size_in_bytes": 15586
+      },
+      {
+        "_path": "Library/include/mkl_pardiso.h",
+        "path_type": "hardlink",
+        "sha256": "00fa502926b8cc20469baed7c337b0d693be2315cefd6e6f727bad95e12d0a72",
+        "sha256_in_prefix": "00fa502926b8cc20469baed7c337b0d693be2315cefd6e6f727bad95e12d0a72",
+        "size_in_bytes": 5385
+      },
+      {
+        "_path": "Library/include/mkl_pblas.h",
+        "path_type": "hardlink",
+        "sha256": "b535469a80e3a4146b9f408858d10887df4195e587f85f2c7699f103bca1a76e",
+        "sha256_in_prefix": "b535469a80e3a4146b9f408858d10887df4195e587f85f2c7699f103bca1a76e",
+        "size_in_bytes": 242814
+      },
+      {
+        "_path": "Library/include/mkl_poisson.f90",
+        "path_type": "hardlink",
+        "sha256": "d32e9fcdb803bb363028ccfc1e3013b7e34058d2bca8b0cdb28dc67d987369f6",
+        "sha256_in_prefix": "d32e9fcdb803bb363028ccfc1e3013b7e34058d2bca8b0cdb28dc67d987369f6",
+        "size_in_bytes": 10947
+      },
+      {
+        "_path": "Library/include/mkl_poisson.h",
+        "path_type": "hardlink",
+        "sha256": "816c261209aeed28a4c4e4dd326761009ae65e1f6cf99099f7b350716a77a36a",
+        "sha256_in_prefix": "816c261209aeed28a4c4e4dd326761009ae65e1f6cf99099f7b350716a77a36a",
+        "size_in_bytes": 8605
+      },
+      {
+        "_path": "Library/include/mkl_rci.f90",
+        "path_type": "hardlink",
+        "sha256": "a1321c57468152be8530b5c4ea57718eb52a56496ac1a530cf6cd484d7253914",
+        "sha256_in_prefix": "a1321c57468152be8530b5c4ea57718eb52a56496ac1a530cf6cd484d7253914",
+        "size_in_bytes": 21937
+      },
+      {
+        "_path": "Library/include/mkl_rci.fi",
+        "path_type": "hardlink",
+        "sha256": "82a00d1b9a5f18c19f769e1f1be9876af65c423eae8639cea35b99d997a4dd15",
+        "sha256_in_prefix": "82a00d1b9a5f18c19f769e1f1be9876af65c423eae8639cea35b99d997a4dd15",
+        "size_in_bytes": 15378
+      },
+      {
+        "_path": "Library/include/mkl_rci.h",
+        "path_type": "hardlink",
+        "sha256": "8ae174bc7ad8bde057e14a9e0c2b1c0d58e7160052252beb1a0046f83f766281",
+        "sha256_in_prefix": "8ae174bc7ad8bde057e14a9e0c2b1c0d58e7160052252beb1a0046f83f766281",
+        "size_in_bytes": 10219
+      },
+      {
+        "_path": "Library/include/mkl_scalapack.h",
+        "path_type": "hardlink",
+        "sha256": "f0e6949d9b5978aec490641fce9120e41500564f77ba7b2748e7dcaf68f86af0",
+        "sha256_in_prefix": "f0e6949d9b5978aec490641fce9120e41500564f77ba7b2748e7dcaf68f86af0",
+        "size_in_bytes": 748250
+      },
+      {
+        "_path": "Library/include/mkl_service.f90",
+        "path_type": "hardlink",
+        "sha256": "457169ac3bc7fe1596535d23978d84adf5cec8bd383c03e80e436e546f6a8b82",
+        "sha256_in_prefix": "457169ac3bc7fe1596535d23978d84adf5cec8bd383c03e80e436e546f6a8b82",
+        "size_in_bytes": 10737
+      },
+      {
+        "_path": "Library/include/mkl_service.fi",
+        "path_type": "hardlink",
+        "sha256": "ff02141d01e92c811c358a6c3b01d9d5c6bf9b185a45c9cfce4ca6f82ce86d54",
+        "sha256_in_prefix": "ff02141d01e92c811c358a6c3b01d9d5c6bf9b185a45c9cfce4ca6f82ce86d54",
+        "size_in_bytes": 11334
+      },
+      {
+        "_path": "Library/include/mkl_service.h",
+        "path_type": "hardlink",
+        "sha256": "ca82caa323506f4fed486560deefe9179ecdbca529e4893ac000a99ef6a23394",
+        "sha256_in_prefix": "ca82caa323506f4fed486560deefe9179ecdbca529e4893ac000a99ef6a23394",
+        "size_in_bytes": 8788
+      },
+      {
+        "_path": "Library/include/mkl_solvers_ee.f90",
+        "path_type": "hardlink",
+        "sha256": "6823cad24f3484fdabb2836c6ca03280c4e1acd954ba7f308dff7c80a1b2eaf2",
+        "sha256_in_prefix": "6823cad24f3484fdabb2836c6ca03280c4e1acd954ba7f308dff7c80a1b2eaf2",
+        "size_in_bytes": 8123
+      },
+      {
+        "_path": "Library/include/mkl_solvers_ee.fi",
+        "path_type": "hardlink",
+        "sha256": "1b804de9fc9caeb00eff56915e228a4cdb2a3d95270985b6826a77b408811619",
+        "sha256_in_prefix": "1b804de9fc9caeb00eff56915e228a4cdb2a3d95270985b6826a77b408811619",
+        "size_in_bytes": 16929
+      },
+      {
+        "_path": "Library/include/mkl_solvers_ee.h",
+        "path_type": "hardlink",
+        "sha256": "84d519c29c684feb85091455d1cb2757b90621aa5bc32b8c1c0269d76ed578b7",
+        "sha256_in_prefix": "84d519c29c684feb85091455d1cb2757b90621aa5bc32b8c1c0269d76ed578b7",
+        "size_in_bytes": 21137
+      },
+      {
+        "_path": "Library/include/mkl_solvers_ee_stdcall.h",
+        "path_type": "hardlink",
+        "sha256": "8bf7f768f0945174720c993960728093f7f9d17cee2dca007c5c0f45402cd76e",
+        "sha256_in_prefix": "8bf7f768f0945174720c993960728093f7f9d17cee2dca007c5c0f45402cd76e",
+        "size_in_bytes": 20673
+      },
+      {
+        "_path": "Library/include/mkl_sparse_handle.f90",
+        "path_type": "hardlink",
+        "sha256": "1589ca3b1123c0523978f377c757018ecd4200dab3dacb9aafc01406dc38be64",
+        "sha256_in_prefix": "1589ca3b1123c0523978f377c757018ecd4200dab3dacb9aafc01406dc38be64",
+        "size_in_bytes": 2880
+      },
+      {
+        "_path": "Library/include/mkl_sparse_handle.fi",
+        "path_type": "hardlink",
+        "sha256": "3b9a9b555edc8e2fcc97c81cbff91095e637cf3c36c26fe7c1e128b245f0fbf4",
+        "sha256_in_prefix": "3b9a9b555edc8e2fcc97c81cbff91095e637cf3c36c26fe7c1e128b245f0fbf4",
+        "size_in_bytes": 2771
+      },
+      {
+        "_path": "Library/include/mkl_sparse_handle.h",
+        "path_type": "hardlink",
+        "sha256": "4688b256f89cebc173475324ec89c79f82a19d50b69939c144f0e487f37bbf76",
+        "sha256_in_prefix": "4688b256f89cebc173475324ec89c79f82a19d50b69939c144f0e487f37bbf76",
+        "size_in_bytes": 2699
+      },
+      {
+        "_path": "Library/include/mkl_sparse_qr.f90",
+        "path_type": "hardlink",
+        "sha256": "a705c8b6cbd69561d6e95b11064d3603420de7bfc0ab479354c7e337db7ad2c3",
+        "sha256_in_prefix": "a705c8b6cbd69561d6e95b11064d3603420de7bfc0ab479354c7e337db7ad2c3",
+        "size_in_bytes": 10321
+      },
+      {
+        "_path": "Library/include/mkl_sparse_qr.h",
+        "path_type": "hardlink",
+        "sha256": "e48ba150061fb665f97451058e42a70b0a94e2f0258dd8960d74a038616ffcde",
+        "sha256_in_prefix": "e48ba150061fb665f97451058e42a70b0a94e2f0258dd8960d74a038616ffcde",
+        "size_in_bytes": 3694
+      },
+      {
+        "_path": "Library/include/mkl_spblas.f90",
+        "path_type": "hardlink",
+        "sha256": "32655cb6bf9459f8e9dd309291a114f863ad6a7e4a1bd62665c6456405b8dece",
+        "sha256_in_prefix": "32655cb6bf9459f8e9dd309291a114f863ad6a7e4a1bd62665c6456405b8dece",
+        "size_in_bytes": 95146
+      },
+      {
+        "_path": "Library/include/mkl_spblas.fi",
+        "path_type": "hardlink",
+        "sha256": "5c871d7afaa647fa25da5a599a63e4bd300fefc8c982f2c505537dcf4fa6234f",
+        "sha256_in_prefix": "5c871d7afaa647fa25da5a599a63e4bd300fefc8c982f2c505537dcf4fa6234f",
+        "size_in_bytes": 78893
+      },
+      {
+        "_path": "Library/include/mkl_spblas.h",
+        "path_type": "hardlink",
+        "sha256": "aaaf638cf7879d4377bea70c7d309f3ed2d8c396251bad2d845b5643615fe6e4",
+        "sha256_in_prefix": "aaaf638cf7879d4377bea70c7d309f3ed2d8c396251bad2d845b5643615fe6e4",
+        "size_in_bytes": 184114
+      },
+      {
+        "_path": "Library/include/mkl_spblas_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "68b9076b934d50c451128dbf47fbc8f6dd50a9ded101c529976b70e238a42941",
+        "sha256_in_prefix": "68b9076b934d50c451128dbf47fbc8f6dd50a9ded101c529976b70e238a42941",
+        "size_in_bytes": 6284
+      },
+      {
+        "_path": "Library/include/mkl_spblas_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "54701d15fee9ddfaef03397c1652bcfa7ad10eabb2869c1669c427969bf456e1",
+        "sha256_in_prefix": "54701d15fee9ddfaef03397c1652bcfa7ad10eabb2869c1669c427969bf456e1",
+        "size_in_bytes": 6110
+      },
+      {
+        "_path": "Library/include/mkl_spblas_stdcall.h",
+        "path_type": "hardlink",
+        "sha256": "8a359cde56cdd8a0aff6f76df722e8daf40ffbfef84d89c0a0992bafc92f61e0",
+        "sha256_in_prefix": "8a359cde56cdd8a0aff6f76df722e8daf40ffbfef84d89c0a0992bafc92f61e0",
+        "size_in_bytes": 122976
+      },
+      {
+        "_path": "Library/include/mkl_trans.fi",
+        "path_type": "hardlink",
+        "sha256": "34898a13ad37e96e484a76c8510fbf403febdfa3c182e4e8c7e800025418f1b8",
+        "sha256_in_prefix": "34898a13ad37e96e484a76c8510fbf403febdfa3c182e4e8c7e800025418f1b8",
+        "size_in_bytes": 10098
+      },
+      {
+        "_path": "Library/include/mkl_trans.h",
+        "path_type": "hardlink",
+        "sha256": "81f721a655731164dd79f2fc5d18636a969c335073d26348bdf2291664677bb6",
+        "sha256_in_prefix": "81f721a655731164dd79f2fc5d18636a969c335073d26348bdf2291664677bb6",
+        "size_in_bytes": 8029
+      },
+      {
+        "_path": "Library/include/mkl_trig_transforms.f90",
+        "path_type": "hardlink",
+        "sha256": "b39d748c4535b34784d2796922a5b6515364dd805810816f768325db4ca412fb",
+        "sha256_in_prefix": "b39d748c4535b34784d2796922a5b6515364dd805810816f768325db4ca412fb",
+        "size_in_bytes": 7722
+      },
+      {
+        "_path": "Library/include/mkl_trig_transforms.h",
+        "path_type": "hardlink",
+        "sha256": "a21015b8be1257b06aa62249264ab9d33e3b34c9da42f57237460da89b268365",
+        "sha256_in_prefix": "a21015b8be1257b06aa62249264ab9d33e3b34c9da42f57237460da89b268365",
+        "size_in_bytes": 2449
+      },
+      {
+        "_path": "Library/include/mkl_types.h",
+        "path_type": "hardlink",
+        "sha256": "f7dbbd22fd6fcdc3bc1331f0e0136f75b37383da6974b33d96399aa6a1c53f0d",
+        "sha256_in_prefix": "f7dbbd22fd6fcdc3bc1331f0e0136f75b37383da6974b33d96399aa6a1c53f0d",
+        "size_in_bytes": 5019
+      },
+      {
+        "_path": "Library/include/mkl_version.h",
+        "path_type": "hardlink",
+        "sha256": "70d7dcd65abe393d3f5a7057263a5998f054bfa6526d1fc7f05bfdbede41520b",
+        "sha256_in_prefix": "70d7dcd65abe393d3f5a7057263a5998f054bfa6526d1fc7f05bfdbede41520b",
+        "size_in_bytes": 1240
+      },
+      {
+        "_path": "Library/include/mkl_vml.f90",
+        "path_type": "hardlink",
+        "sha256": "c9540772ef24c67e94543b477b038e865f01323908beb18a444d70aa2f67f69b",
+        "sha256_in_prefix": "c9540772ef24c67e94543b477b038e865f01323908beb18a444d70aa2f67f69b",
+        "size_in_bytes": 277200
+      },
+      {
+        "_path": "Library/include/mkl_vml.fi",
+        "path_type": "hardlink",
+        "sha256": "2af12b039ad85f877ace7cec19923fea201bedd3aafc58ea651ea787a88ea818",
+        "sha256_in_prefix": "2af12b039ad85f877ace7cec19923fea201bedd3aafc58ea651ea787a88ea818",
+        "size_in_bytes": 846
+      },
+      {
+        "_path": "Library/include/mkl_vml.h",
+        "path_type": "hardlink",
+        "sha256": "78b05b326852db0e2a7c845c081820e31f24f9e276307d6dd2235a8219e3e000",
+        "sha256_in_prefix": "78b05b326852db0e2a7c845c081820e31f24f9e276307d6dd2235a8219e3e000",
+        "size_in_bytes": 1198
+      },
+      {
+        "_path": "Library/include/mkl_vml_defines.h",
+        "path_type": "hardlink",
+        "sha256": "5e0aa4704e8ce40d9177e39ac4d72a6c752dfb0c07cf937cb6223ff57b47639b",
+        "sha256_in_prefix": "5e0aa4704e8ce40d9177e39ac4d72a6c752dfb0c07cf937cb6223ff57b47639b",
+        "size_in_bytes": 8301
+      },
+      {
+        "_path": "Library/include/mkl_vml_functions.h",
+        "path_type": "hardlink",
+        "sha256": "5f02b064e801ce7d5fa90f45ef9601e22d394d31d7ff12f0c06a001bbbf19833",
+        "sha256_in_prefix": "5f02b064e801ce7d5fa90f45ef9601e22d394d31d7ff12f0c06a001bbbf19833",
+        "size_in_bytes": 311187
+      },
+      {
+        "_path": "Library/include/mkl_vml_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "438221d06f8e68db85c420f1ca17918e0af8bc26a3f754c7039b683cf1415948",
+        "sha256_in_prefix": "438221d06f8e68db85c420f1ca17918e0af8bc26a3f754c7039b683cf1415948",
+        "size_in_bytes": 369232
+      },
+      {
+        "_path": "Library/include/mkl_vml_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "e24b4fcb6e502ed64d2f222009e6a4a01746810670035fa55b2540ebc2b08e4e",
+        "sha256_in_prefix": "e24b4fcb6e502ed64d2f222009e6a4a01746810670035fa55b2540ebc2b08e4e",
+        "size_in_bytes": 206096
+      },
+      {
+        "_path": "Library/include/mkl_vml_omp_variant.f90",
+        "path_type": "hardlink",
+        "sha256": "9b640a44c8bf8d1041c352a7129f0d791b73fd138a3a44a5cbd26651fa4b1901",
+        "sha256_in_prefix": "9b640a44c8bf8d1041c352a7129f0d791b73fd138a3a44a5cbd26651fa4b1901",
+        "size_in_bytes": 299949
+      },
+      {
+        "_path": "Library/include/mkl_vml_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "faee5676bf139c7cc1ba20486f49e1e2916a7bb9ee24f5787c1fd53bffa22ff6",
+        "sha256_in_prefix": "faee5676bf139c7cc1ba20486f49e1e2916a7bb9ee24f5787c1fd53bffa22ff6",
+        "size_in_bytes": 118175
+      },
+      {
+        "_path": "Library/include/mkl_vml_types.h",
+        "path_type": "hardlink",
+        "sha256": "115d4f3ffbf57973e35d30cfaf1afea62bad8159d65cc50b2e279e15cd1ca6e5",
+        "sha256_in_prefix": "115d4f3ffbf57973e35d30cfaf1afea62bad8159d65cc50b2e279e15cd1ca6e5",
+        "size_in_bytes": 2316
+      },
+      {
+        "_path": "Library/include/mkl_vsl.f90",
+        "path_type": "hardlink",
+        "sha256": "0703e7539e59b966ecc19f647550e4499cdab96be3aa46340cb6952668f0746f",
+        "sha256_in_prefix": "0703e7539e59b966ecc19f647550e4499cdab96be3aa46340cb6952668f0746f",
+        "size_in_bytes": 138910
+      },
+      {
+        "_path": "Library/include/mkl_vsl.fi",
+        "path_type": "hardlink",
+        "sha256": "50fd6303f324a65b3804478c700f5a50e22d85d9e623f3a6fde70775f6211faa",
+        "sha256_in_prefix": "50fd6303f324a65b3804478c700f5a50e22d85d9e623f3a6fde70775f6211faa",
+        "size_in_bytes": 900
+      },
+      {
+        "_path": "Library/include/mkl_vsl.h",
+        "path_type": "hardlink",
+        "sha256": "16bbf85f0e9dd28cc0a553ee383c26617151052c32d406aeaeebf42c7612aabb",
+        "sha256_in_prefix": "16bbf85f0e9dd28cc0a553ee383c26617151052c32d406aeaeebf42c7612aabb",
+        "size_in_bytes": 1142
+      },
+      {
+        "_path": "Library/include/mkl_vsl_defines.h",
+        "path_type": "hardlink",
+        "sha256": "6c4e62fb93399d2633c03df5b6dc1dc992115f5cd6145ff2aa24672aaca023b8",
+        "sha256_in_prefix": "6c4e62fb93399d2633c03df5b6dc1dc992115f5cd6145ff2aa24672aaca023b8",
+        "size_in_bytes": 44854
+      },
+      {
+        "_path": "Library/include/mkl_vsl_functions.h",
+        "path_type": "hardlink",
+        "sha256": "a320057facf869f5f7b5ddee36633865296abfc19d9de452a6e43dc2729ae58e",
+        "sha256_in_prefix": "a320057facf869f5f7b5ddee36633865296abfc19d9de452a6e43dc2729ae58e",
+        "size_in_bytes": 71416
+      },
+      {
+        "_path": "Library/include/mkl_vsl_omp_offload.f90",
+        "path_type": "hardlink",
+        "sha256": "30991aab2e1a4b55d1799c30cd27a20b035a79558e3b1d8983aea7fcfd2e909d",
+        "sha256_in_prefix": "30991aab2e1a4b55d1799c30cd27a20b035a79558e3b1d8983aea7fcfd2e909d",
+        "size_in_bytes": 50514
+      },
+      {
+        "_path": "Library/include/mkl_vsl_omp_offload.h",
+        "path_type": "hardlink",
+        "sha256": "48a84a546ff5d147ac24c04ecc6bd32b671909f98458bc1d76e99cbb464b8b31",
+        "sha256_in_prefix": "48a84a546ff5d147ac24c04ecc6bd32b671909f98458bc1d76e99cbb464b8b31",
+        "size_in_bytes": 9515
+      },
+      {
+        "_path": "Library/include/mkl_vsl_omp_variant.f90",
+        "path_type": "hardlink",
+        "sha256": "de560381d43f2bcf8b475e53172e68e193365e3d9670443fe299fd08134ffb9d",
+        "sha256_in_prefix": "de560381d43f2bcf8b475e53172e68e193365e3d9670443fe299fd08134ffb9d",
+        "size_in_bytes": 34081
+      },
+      {
+        "_path": "Library/include/mkl_vsl_omp_variant.h",
+        "path_type": "hardlink",
+        "sha256": "468d51a6033eb088b32dacebedd833739a648aec5595fecd0ff54cec9494f884",
+        "sha256_in_prefix": "468d51a6033eb088b32dacebedd833739a648aec5595fecd0ff54cec9494f884",
+        "size_in_bytes": 5948
+      },
+      {
+        "_path": "Library/include/mkl_vsl_subroutine.fi",
+        "path_type": "hardlink",
+        "sha256": "693889987754b0a219a8fa91c13d67718e64d92fd6ea223c6ea8352613271d79",
+        "sha256_in_prefix": "693889987754b0a219a8fa91c13d67718e64d92fd6ea223c6ea8352613271d79",
+        "size_in_bytes": 38610
+      },
+      {
+        "_path": "Library/include/mkl_vsl_types.h",
+        "path_type": "hardlink",
+        "sha256": "29bd215028e38b694884d775427210f7b6e886ce0c4b2efb07e7a53aa8277b5b",
+        "sha256_in_prefix": "29bd215028e38b694884d775427210f7b6e886ce0c4b2efb07e7a53aa8277b5b",
+        "size_in_bytes": 4673
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "91758607e794e1dd2dfadceebb604e8a3827ee9b8c33bee8bc6e501bc68583cf",
+  "size": 784091,
+  "subdir": "win-64",
+  "timestamp": 1625333245064,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/mkl-include-2021.3.0-hb70f87d_564.tar.bz2",
+  "version": "2021.3.0"
+}

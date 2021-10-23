@@ -1,0 +1,41 @@
+{
+  "build": "11_win64_mkl",
+  "build_number": 11,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libblas 3.9.0 11_win64_mkl",
+    "libcblas 3.9.0 11_win64_mkl",
+    "liblapack 3.9.0 11_win64_mkl",
+    "liblapacke 3.9.0 11_win64_mkl",
+    "mkl >=2021.3.0,<2022.0a0",
+    "mkl-devel"
+  ],
+  "extracted_package_dir": "C:\\Users\\a\\anaconda3\\pkgs\\blas-devel-3.9.0-11_win64_mkl",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "blas-devel-3.9.0-11_win64_mkl.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\a\\anaconda3\\pkgs\\blas-devel-3.9.0-11_win64_mkl",
+    "type": 1
+  },
+  "md5": "958f666221b360cfc1e7e78790376f9d",
+  "name": "blas-devel",
+  "package_tarball_full_path": "C:\\Users\\a\\anaconda3\\pkgs\\blas-devel-3.9.0-11_win64_mkl.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "9856778542ad26a7990a603aeb99aee0057f66f56501fe4c1b9eb41cf444de16",
+  "size": 12502,
+  "subdir": "win-64",
+  "timestamp": 1628596550198,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/blas-devel-3.9.0-11_win64_mkl.tar.bz2",
+  "version": "3.9.0"
+}
